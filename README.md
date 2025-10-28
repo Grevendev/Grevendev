@@ -17,7 +17,7 @@ I'm interested in
 - WebDevelopment
 - Docker & Kubernetes micro-services.
 
-I'm currently working on a group project in school. Named: Health-Care-System. 
+I'm currently working on a group project in school. Named: Hotel Manager
 
 
 
