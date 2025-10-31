@@ -1,23 +1,18 @@
 ## Hi, I'm Grevendev 👋
 
 ---
-I'm currently studing software development and AI at University college.
+**I'm currently studing software development and AI at University college.**
 
-I'm currently learing C#.
+**I'm currently learing C# and SQL.**
 
-I'm interested in 
-- C#
-- Python
-- Database
-- Testing
-- Devop
-- Infrastructure
-- Agile System Development
-- CI/CD deployment
-- WebDevelopment
-- Docker & Kubernetes micro-services.
+**Programming Languages:** C#, Python  
+**Databases:** SQL, NoSQL (om relevant)  
+**Testing & CI/CD:** Unit Testing, CI/CD Deployment  
+**DevOps & Infrastructure:** Docker, Kubernetes, Microservices  
+**Methodologies:** Agile System Development  
+**Web Development:** Frontend & Backend
 
-I'm currently working on a project. Named: Hotel Manager
+**I'm currently working on a project. Named:** Hotel Manager
 
 
 
