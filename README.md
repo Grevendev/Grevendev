@@ -6,7 +6,7 @@
 **I'm currently learing C# and SQL.**
 
 **Programming Languages:** C#, Python  
-**Databases:** SQL, NoSQL (om relevant)  
+**Databases:** SQL, NoSQL, MSSQL  
 **Testing & CI/CD:** Unit Testing, CI/CD Deployment  
 **DevOps & Infrastructure:** Docker, Kubernetes, Microservices  
 **Methodologies:** Agile System Development  
