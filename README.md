@@ -3,7 +3,7 @@
 ---
 **I'm currently studing software development and AI at University college.**
 
-**I'm currently learing C# and SQL.**
+**I'm currently learing C# and SQL, Agile System Development.**
 
 **Programming Languages:** C#, Python  
 **Databases:** SQL, NoSQL, MSSQL, Neo4j  
