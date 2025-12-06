@@ -12,7 +12,7 @@
 **Methodologies:** Agile System Development  
 **Web Development:** Frontend & Backend
 
-**I'm currently working on a project. Named:** Hotel Manager
+**I'm currently working on a project. Named:** Hotel Manager & TravelAgency
 
 
 
