@@ -3,7 +3,7 @@
 ---
 **I'm currently studing software development and AI at University college.**
 
-**I'm currently learing C# and SQL, Agile System Development.**
+**I'm currently learing C# and SQL, Agile System Development, HTML, CSS, JavaScript.**
 
 **Programming Languages:** C#, Python  
 **Databases:** SQL, NoSQL, MSSQL, Neo4j  
@@ -12,7 +12,7 @@
 **Methodologies:** Agile System Development  
 **Web Development:** Frontend & Backend
 
-**I'm currently working on a project. Named:** Hotel Manager & TravelAgency
+**I'm currently working on a project. Named:** 
 
 
 
