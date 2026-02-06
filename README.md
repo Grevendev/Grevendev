@@ -1,4 +1,5 @@
-![Tech Workspace](1a398fd1-8a85-4b8d-974c-8e3cf10ff8d2.png)
+<img width="1536" height="1024" alt="1a398fd1-8a85-4b8d-974c-8e3cf10ff8d2" src="https://github.com/user-attachments/assets/2861e028-bd5d-40e7-ac75-da6a9b1a7658" />
+
 
 
 ## Hi, I'm Grevendev 👋
