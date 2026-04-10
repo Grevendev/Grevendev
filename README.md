@@ -7,7 +7,7 @@
 ---
 **I'm currently studing software development and AI at University college.**
 
-**I'm currently learing C# and SQL, Agile System Development, HTML, CSS, JavaScript, TypeScript and REACT.**
+**I'm currently learing C# and SQL, Agile System Development, HTML, CSS, JavaScript, TypeScript and REACT, TDD, BDD.**
 
 **Programming Languages:** C#, Python, JavaScript, TypeScript 
 
@@ -17,7 +17,7 @@
 **Methodologies:** Agile System Development  
 **Web Development:** Frontend & Backend
 
-**I'm currently working on a group-project. Named:** **Show-Time**
+**I'm currently working on a group-project. Named:** **wordSlayer**
 
 
 
