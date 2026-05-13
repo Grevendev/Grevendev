@@ -7,7 +7,7 @@
 ---
 **I'm currently studing software development and AI at University college.**
 
-**I'm currently learing C# and SQL, Agile System Development, HTML, CSS, JavaScript, TypeScript and REACT, TDD, BDD.**
+**I'm currently learing Python.**
 
 **Programming Languages:** C#, Python, JavaScript, TypeScript 
 
