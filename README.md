@@ -17,7 +17,7 @@
 **Methodologies:** Agile System Development  
 **Web Development:** Frontend & Backend
 
-**I'm currently working on a group-project. Named:** **wordSlayer**
+**I'm currently working on a group-project. Named:** **kk2-oraklet**
 
 
 
