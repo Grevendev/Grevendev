@@ -7,9 +7,9 @@
 ---
 **I'm currently studing software development and AI at University college.**
 
-**I'm currently learing Python.**
+**I'm currently learing Machine Learning.**
 
-**Programming Languages:** C#, Python, JavaScript, TypeScript 
+**Programming Languages:** C#, Python, JavaScript, TypeScript, Python
 
 **Databases:** SQL, NoSQL, MSSQL, Neo4j  
 **Testing & CI/CD:** Unit Testing, CI/CD Deployment  
@@ -17,7 +17,7 @@
 **Methodologies:** Agile System Development  
 **Web Development:** Frontend & Backend
 
-**I'm currently working on a group-project. Named:** **kk2-oraklet**
+**I'm currently working on a project. Named:** **kk2-oraklet**
 
 
 
